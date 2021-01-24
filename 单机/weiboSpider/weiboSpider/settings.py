@@ -38,8 +38,7 @@ COOKIES_ENABLED = True
 
 # Override the default request headers:
 DEFAULT_REQUEST_HEADERS = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
-        'Cookie': '_T_WM=29225193880; BAIDU_SSP_lcr=https://www.google.com/; SUB=_2A25NDQEODeRhGeNH61UV8C3Izj6IHXVu8a9GrDV6PUJbktANLXWjkW1NSvegmyBX0oPqVdafKYiBnxRUArl4EwHK; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5.q_dJWDLANz.-gZ9xXzds5NHD95Qf1K5NSh50Sh-EWs4Dqcj_i--Xi-zRi-zci--ci-zpiKLsi--fi-zNi-2ci--4iK.Ei-z7i--4iKn0iKy8; SSOLoginState=1611231582'
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
 }
 
 # Enable or disable spider middlewares
